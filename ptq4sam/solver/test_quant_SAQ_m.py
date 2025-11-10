@@ -252,7 +252,7 @@ def parse_args():
     
     parser.add_argument(
         '--calib_num',
-        default=2,  
+        default=32,  
         type=int,
         help='no, original, CLM')
     
@@ -270,13 +270,13 @@ def parse_args():
     
     parser.add_argument(
         '--alpha',
-        default=0.5,  
+        default=1,  
         type=float,
         help='Hyperparameter of loss function')
     
     parser.add_argument(
         '--beta',
-        default=0,  
+        default=1,  
         type=float,
         help='Hyperparameter of loss function')
     
