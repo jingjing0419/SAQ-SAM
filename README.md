@@ -1,8 +1,12 @@
 # SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model
 
+This repository contains the official implementation for the AAAI2026 paper [SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model](https://arxiv.org/abs/2503.06515)
+
 Jing Zhang, [Zhikai Li✉](https://scholar.google.com/citations?user=XwutB1AAAAAJ&hl=en), [Xuewen Liu](https://scholar.google.com/citations?user=qnklNocAAAAJ&hl=zh-CN&oi=sra), Chengzhi Hu, [Qingyi Gu✉](https://scholar.google.com/citations?user=qnklNocAAAAJ&hl=zh-CN&oi=sra)
 
 (✉ denotes corresponding author.)
+
+
 
 ## Overview
 We propose SAQ-SAM in this paper, which boosts PTQ for SAM from the perspective of semantic alignment.
