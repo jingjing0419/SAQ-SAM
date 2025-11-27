@@ -1,8 +1,10 @@
 # SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model
 
-This repository contains the official implementation for the AAAI2026 paper [SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model](https://arxiv.org/abs/2503.06515)
+## Introduction
+This repository contains the official implementation for the AAAI 2026 paper [SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model](https://arxiv.org/abs/2503.06515).
 
-Jing Zhang, [Zhikai Li✉](https://scholar.google.com/citations?user=XwutB1AAAAAJ&hl=en), [Xuewen Liu](https://scholar.google.com/citations?user=qnklNocAAAAJ&hl=zh-CN&oi=sra), Chengzhi Hu, [Qingyi Gu✉](https://scholar.google.com/citations?user=qnklNocAAAAJ&hl=zh-CN&oi=sra)
+
+Authors: [Jing Zhang](https://scholar.google.com/citations?hl=zh-CN&user=5PIJmvgAAAAJ), [Zhikai Li✉](https://scholar.google.com/citations?user=XwutB1AAAAAJ&hl=en), [Xuewen Liu](https://scholar.google.com/citations?user=qnklNocAAAAJ&hl=zh-CN&oi=sra), Chengzhi Hu, [Qingyi Gu✉](https://scholar.google.com/citations?user=qnklNocAAAAJ&hl=zh-CN&oi=sra)
 
 (✉ denotes corresponding author.)
 
